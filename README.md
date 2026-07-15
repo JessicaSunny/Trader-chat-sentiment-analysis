@@ -3,6 +3,8 @@
 Analyzes customer support chat messages from traders to identify what's driving negative
 sentiment, quantify issue frequency and severity, and compare experience across account tiers.
 
+Live Dashboard: https://trader-chat-sentiment-analysis-mrkdqrzon55jztq3nekjep.streamlit.app/
+
 ## Approach
 1. **Data cleaning** — handled missing values per column type (dropped rows with missing
    message text, filled missing categorical fields with "Unknown")
