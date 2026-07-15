@@ -1,0 +1,71 @@
+feedback_id,comment_text,rating,channel,themes
+1,"Great platform, easy to use and fast execution.",5,app,Positive Experience
+2,App keeps crashing when I open the trading screen.,1,app,App Performance/Bugs
+3,Really happy with the fast deposit process.,4,web,Withdrawal/Deposit Issues
+3,Really happy with the fast deposit process.,4,web,Positive Experience
+4,Withdrawal fees are too high compared to competitors.,1,unknown,Withdrawal/Deposit Issues
+5,Customer support never replies on time.,1,web,Customer Support
+6,Had to contact support three times for the same issue.,1,email,Customer Support
+7,"Excellent customer service, resolved my issue fast.",5,web,Customer Support
+7,"Excellent customer service, resolved my issue fast.",5,web,Positive Experience
+8,The mobile app is buggy and freezes often.,1,app,App Performance/Bugs
+9,App crashed and I lost my open position.,1,app,App Performance/Bugs
+10,"The app is so slow to load charts, very frustrating.",2,app,App Performance/Bugs
+12,Good variety of trading instruments available.,5,app,Other/Unclassified
+13,"Deposit was instant, very impressed.",5,web,Withdrawal/Deposit Issues
+13,"Deposit was instant, very impressed.",5,web,Positive Experience
+14,"Simple onboarding, verification was quick for me.",4,email,Verification/Onboarding
+15,App performance has improved a lot recently.,3,web,Other/Unclassified
+16,Charts lag a lot during high volatility.,2,app,App Performance/Bugs
+17,Trading fees are fair and transparent.,4,app,Withdrawal/Deposit Issues
+18,The verification process was confusing and slow.,3,app,App Performance/Bugs
+18,The verification process was confusing and slow.,3,app,Verification/Onboarding
+19,"Smooth experience overall, no complaints.",5,app,Positive Experience
+20,Support team was helpful when I had an issue.,4,app,Customer Support
+21,"Terrible experience, app crashed twice today.",1,email,App Performance/Bugs
+22,"I love the interface, very clean and simple.",5,app,Positive Experience
+23,"Great charting tools, very detailed.",5,app,Positive Experience
+24,"Withdrawal took way too long, almost a week.",1,web,Withdrawal/Deposit Issues
+25,"Support wait times are unacceptable, waited 2 hours.",2,web,Customer Support
+26,"Great platform, easy to use and fast execution.",5,app,Positive Experience
+27,App keeps crashing when I open the trading screen.,1,app,App Performance/Bugs
+28,Really happy with the fast deposit process.,5,web,Withdrawal/Deposit Issues
+28,Really happy with the fast deposit process.,5,web,Positive Experience
+29,Withdrawal fees are too high compared to competitors.,3,web,Withdrawal/Deposit Issues
+30,Customer support never replies on time.,1,app,Customer Support
+31,Had to contact support three times for the same issue.,1,app,Customer Support
+32,"Excellent customer service, resolved my issue fast.",5,web,Customer Support
+32,"Excellent customer service, resolved my issue fast.",5,web,Positive Experience
+33,The mobile app is buggy and freezes often.,3,app,App Performance/Bugs
+34,App crashed and I lost my open position.,1,app,App Performance/Bugs
+35,"The app is so slow to load charts, very frustrating.",3,web,App Performance/Bugs
+36,"Withdrawal process needs improvement, too slow.",2,web,App Performance/Bugs
+36,"Withdrawal process needs improvement, too slow.",2,web,Withdrawal/Deposit Issues
+37,Good variety of trading instruments available.,4,app,Other/Unclassified
+38,"Deposit was instant, very impressed.",5,app,Withdrawal/Deposit Issues
+38,"Deposit was instant, very impressed.",5,app,Positive Experience
+39,"Simple onboarding, verification was quick for me.",4,web,Verification/Onboarding
+40,App performance has improved a lot recently.,4,app,Other/Unclassified
+41,Charts lag a lot during high volatility.,3,app,App Performance/Bugs
+42,Trading fees are fair and transparent.,4,app,Withdrawal/Deposit Issues
+43,The verification process was confusing and slow.,1,app,App Performance/Bugs
+43,The verification process was confusing and slow.,1,app,Verification/Onboarding
+44,"Smooth experience overall, no complaints.",5,app,Positive Experience
+45,Support team was helpful when I had an issue.,3,web,Customer Support
+46,"Terrible experience, app crashed twice today.",1,app,App Performance/Bugs
+47,"I love the interface, very clean and simple.",5,app,Positive Experience
+48,"Great charting tools, very detailed.",5,app,Positive Experience
+49,"Withdrawal took way too long, almost a week.",1,web,Withdrawal/Deposit Issues
+50,"Support wait times are unacceptable, waited 2 hours.",1,app,Customer Support
+51,"Great platform, easy to use and fast execution.",5,app,Positive Experience
+52,App keeps crashing when I open the trading screen.,2,app,App Performance/Bugs
+53,Really happy with the fast deposit process.,4,app,Withdrawal/Deposit Issues
+53,Really happy with the fast deposit process.,4,app,Positive Experience
+54,Withdrawal fees are too high compared to competitors.,3,app,Withdrawal/Deposit Issues
+55,Customer support never replies on time.,2,app,Customer Support
+56,Had to contact support three times for the same issue.,2,web,Customer Support
+57,"Excellent customer service, resolved my issue fast.",5,app,Customer Support
+57,"Excellent customer service, resolved my issue fast.",5,app,Positive Experience
+58,The mobile app is buggy and freezes often.,2,app,App Performance/Bugs
+59,App crashed and I lost my open position.,1,web,App Performance/Bugs
+60,"The app is so slow to load charts, very frustrating.",1,app,App Performance/Bugs
