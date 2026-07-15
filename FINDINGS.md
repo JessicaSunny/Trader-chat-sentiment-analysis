@@ -23,5 +23,5 @@ against account tier and platform to identify priority issues and any tier-based
 ## Caveats
 - Sample size per tier is small (9-23 messages), so percentages should be treated as
   directional rather than statistically definitive
-- AI-based classification is more flexible than keyword matching but not deterministic —
+- AI-based classification is more flexible than keyword matching but not deterministic-
   re-running the same messages could occasionally produce slightly different category picks
