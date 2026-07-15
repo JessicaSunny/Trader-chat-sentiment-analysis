@@ -1,0 +1,50 @@
+message_id,message_text,account_tier,platform,issue_category,sentiment
+1,MT5 keeps disconnecting from my account randomly during trading hours.,Standard,MT5,Platform/App Bugs,Negative
+2,The trading bot ran an infinite loop and drained my balance before I caught it.,Premium,Deriv Bot,Technical/Execution Issue,Negative
+3,"Really appreciate the live chat feature, resolved my query instantly.",VIP,Deriv Bot,Customer Support Quality,Positive
+4,The premium tier benefits don't feel any different from standard honestly.,Standard,MT5,Fees/Pricing,Negative
+5,"The bot stopped executing my strategy overnight, no error shown anywhere.",Standard,MT5,Technical/Execution Issue,Negative
+6,Platform fees seem to have increased without any clear notice.,Unknown,MT5,Fees/Pricing,Negative
+7,"Verification process was surprisingly fast this time, thank you.",Premium,MT5,Positive Experience,Positive
+8,My account got flagged for KYC again even though I submitted documents twice.,Standard,Deriv Bot,Withdrawal/KYC Issue,Negative
+9,Support agent was rude and dismissive when I asked for a refund.,Premium,Deriv Trader,Customer Support Quality,Negative
+10,"Spread widened massively during news events, cost me a lot on that trade.",Standard,Deriv Bot,Technical/Execution Issue,Negative
+11,"Bot editor is glitchy, my code disappears sometimes when I switch tabs.",VIP,MT5,Platform/App Bugs,Negative
+12,Had a delay of almost a minute on trade execution during high volatility.,VIP,Deriv Trader,Technical/Execution Issue,Negative
+13,"My trades keep getting delayed by several seconds, I'm losing money on slippage.",Premium,Deriv Trader,Technical/Execution Issue,Negative
+14,"I keep getting logged out of MT5 for no reason, very annoying.",Standard,Deriv Bot,Technical/Execution Issue,Negative
+15,"Great job on the recent platform update, feels much faster now.",Premium,MT5,Platform/App Bugs,Positive
+16,"I had to explain my issue to three different agents, very frustrating experience.",VIP,MT5,Customer Support Quality,Negative
+17,"Fast, smooth, no issues to report this week.",Standard,Deriv Trader,Positive Experience,Positive
+19,Withdrawal finally went through but took much longer than advertised.,Premium,MT5,Withdrawal/KYC Issue,Neutral
+20,"The mobile app crashed right when I had an open position, lost the trade.",Premium,Deriv Trader,Platform/App Bugs,Negative
+21,Deriv Bot keeps giving syntax errors on a strategy that worked fine last week.,Standard,Deriv Trader,Platform/App Bugs,Negative
+22,My VIP account manager hasn't responded to my email in over a week.,Standard,MT5,Customer Support Quality,Negative
+23,"Really impressed with the new charting tools, much better than before.",VIP,Deriv Trader,Platform/App Bugs,Positive
+24,"I've been trying to withdraw for 4 days now, still pending with no update.",Premium,MT5,Withdrawal/KYC Issue,Negative
+25,"App works great on mobile, smooth and responsive.",Standard,MT5,Platform/App Bugs,Positive
+26,"Excellent execution speed today, no complaints at all.",Standard,Deriv Bot,Technical/Execution Issue,Positive
+27,Support closed my ticket without actually resolving the issue.,Premium,MT5,Customer Support Quality,Negative
+28,"Account verification is taking forever, been over a week now.",VIP,MT5,Withdrawal/KYC Issue,Negative
+29,"The new dashboard layout is confusing, hard to find my open positions now.",Premium,Deriv Trader,Platform/App Bugs,Negative
+30,"Customer support responded within minutes, very happy with the service.",Standard,MT5,Customer Support Quality,Positive
+31,MT5 keeps disconnecting from my account randomly during trading hours.,Standard,Unknown,Platform/App Bugs,Negative
+32,The trading bot ran an infinite loop and drained my balance before I caught it.,Premium,MT5,Platform/App Bugs,Negative
+33,"Really appreciate the live chat feature, resolved my query instantly.",Standard,Deriv Trader,Customer Support Quality,Positive
+34,The premium tier benefits don't feel any different from standard honestly.,Standard,Deriv Trader,Fees/Pricing,Negative
+35,"The bot stopped executing my strategy overnight, no error shown anywhere.",Standard,Deriv Trader,Technical/Execution Issue,Negative
+36,Platform fees seem to have increased without any clear notice.,Premium,Deriv Trader,Fees/Pricing,Negative
+37,"Verification process was surprisingly fast this time, thank you.",Standard,Deriv Bot,Customer Support Quality,Positive
+38,My account got flagged for KYC again even though I submitted documents twice.,Premium,MT5,Withdrawal/KYC Issue,Negative
+39,Support agent was rude and dismissive when I asked for a refund.,Premium,Deriv Trader,Customer Support Quality,Negative
+40,"Spread widened massively during news events, cost me a lot on that trade.",Standard,MT5,Technical/Execution Issue,Negative
+41,"Bot editor is glitchy, my code disappears sometimes when I switch tabs.",Premium,Deriv Trader,Platform/App Bugs,Negative
+42,Had a delay of almost a minute on trade execution during high volatility.,VIP,MT5,Technical/Execution Issue,Negative
+43,"My trades keep getting delayed by several seconds, I'm losing money on slippage.",Premium,MT5,Technical/Execution Issue,Negative
+44,"I keep getting logged out of MT5 for no reason, very annoying.",VIP,Deriv Bot,Platform/App Bugs,Negative
+45,"Great job on the recent platform update, feels much faster now.",Standard,MT5,Platform/App Bugs,Positive
+46,"I had to explain my issue to three different agents, very frustrating experience.",VIP,MT5,Customer Support Quality,Negative
+47,"Fast, smooth, no issues to report this week.",Standard,Deriv Bot,Positive Experience,Positive
+48,"Onboarding was smooth and quick, no complaints there.",Standard,Deriv Trader,Positive Experience,Positive
+49,Withdrawal finally went through but took much longer than advertised.,Standard,Deriv Trader,Withdrawal/KYC Issue,Neutral
+50,"The mobile app crashed right when I had an open position, lost the trade.",Standard,MT5,Platform/App Bugs,Negative
